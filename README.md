@@ -3,6 +3,8 @@
 - Anthony Leotta
 - 6/25/2019
 
+This project is my first entry back into SDL/OpenGL in a while.  My goals are to apply modern C++ 11,14, and 17 to SDL, OpenGL, Audio, Multi-Threading, Embedding Scripting and other topics.
+
 ## Libraries
 
 The following libraries will be required.
